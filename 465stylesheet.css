@@ -1,0 +1,35 @@
+
+h1,
+h2,
+h3{
+  font-family: "Verdana";
+  font-weight: bold;
+
+}
+
+p{
+  font-family: "Georgia";
+  font-size: medium;
+  padding-top: 10px;
+  padding-right: 50px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+}
+
+body {
+  background-image:url('https://media2.fdncms.com/chicago/imager/u/blog/50793793/mellow-bike-map-final_teaser.jpg?cb=1529460484');
+  background-repeat:repeat;
+  background-size:25%;
+}
+
+
+.paragraph {
+  background-color: #f4fbf0;
+  opacity: 0.9;
+}
+
+.bottomtext {
+  font-family: "Georgia";
+  font-weight: lighter;
+  font-max-size: x-small;
+}

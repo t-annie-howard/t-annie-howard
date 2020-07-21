@@ -1,0 +1,1 @@
+This webpage hosts a ArcGIS web map created for the UIC Urban Planning and Policy 465 Web Mapping Class. It is titled "Inequalities in Chicago's Bike Infrastructure," and was researched and created by Annie Howard.
